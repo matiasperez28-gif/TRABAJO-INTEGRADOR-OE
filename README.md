@@ -24,7 +24,7 @@ Proyecto desarrollado para modelar y automatizar el proceso de solicitud de vaca
 - scripts/: código fuente
 - datos/: almacenamiento de información
 - diagramas/: modelos BPMN
-- documentacion/: informe final
+- documentacion/: Matias Perez Romo TPIOE.pdf
 
 ## Ejecución
 
